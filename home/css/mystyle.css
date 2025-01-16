@@ -17,11 +17,11 @@ body {
 
 .card {
   background-color: #DD7E7E;
-  border-radius: 10px;
-  padding: 15px;
-  margin: 15px;
+  border-radius: 30px;
+  padding: 35px;
+  margin: 35px;
   text-align: center;
-  width: 100%;
+  width: 50%;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   background-image: url('background image.jpeg');
   background-size: cover;
