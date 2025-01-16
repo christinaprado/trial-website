@@ -12,31 +12,28 @@
       display: flex;
       flex-direction: column;
       align-items: center;
-      width: 80%;
+      width: 60%;
     }
 
     .card {
       background-color: #DD7E7E;
-      border-radius: 10px;
+      border-radius: 20px;
       padding: 25px;
-      margin: 20px;
+      margin: 15px;
       text-align: center;
-      width: 100%;
-      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-      background-image: url('background image.jpeg');
-      background-size: cover;
-      background-position: center;
+      width: 90%;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
       color: #fff;
     }
 
     .card h2 {
-      margin-bottom: 15px;
-      font-size: 2em;
+      margin-bottom: 10px;
+      font-size: 2rem;
     }
 
     .card p {
       margin: 0;
-      font-size: 1.6em;
+      font-size: 1.5rem;
     }
 
     .picture img {
