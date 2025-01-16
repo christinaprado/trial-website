@@ -1,3 +1,7 @@
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/mystyle.css">
+  <title>Christina Prado - Personal Profile</title>
+  <style>
     body {
       font-family: sans-serif;
       margin: 0;
@@ -18,8 +22,8 @@
     .card {
       background-color: #DD7E7E;
       border-radius: 20px;
-      padding: 25px;
-      margin: 15px;
+      padding: 35px;
+      margin: 20px;
       text-align: center;
       width: 90%;
       box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
@@ -27,13 +31,13 @@
     }
 
     .card h2 {
-      margin-bottom: 10px;
-      font-size: 2rem;
+      margin-bottom: 15px;
+      font-size: 2.5rem;
     }
 
     .card p {
       margin: 0;
-      font-size: 1.5rem;
+      font-size: 2rem;
     }
 
     .picture img {
