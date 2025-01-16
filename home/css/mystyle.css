@@ -7,10 +7,22 @@
       align-items: center;
       justify-content: center;
       min-height: 100vh;
-      background-image: url('https://appurl.io/9dOssRtW9B');
+      background-image: url('images/_7.jpeg');
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
+    }
+
+    header {
+      background-color: cornflowerblue;
+      color: floralwhite;
+      padding: 20px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      width: 100%;
+      z-index: 1000;
+      box-shadow: 0 4px 5px rgba(0, 0, 0, 0.3), 0 6px 15px rgba(0, 0, 0, 0.2);
     }
 
     .container {
@@ -47,3 +59,4 @@
       height: auto;
       margin: 20px 0;
     }
+ 
