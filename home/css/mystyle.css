@@ -1,14 +1,11 @@
-
 body {
-  font-family: "Times New Roman", serif;
-  background: url('visuals/background.png') no-repeat fixed;
-  background-size: cover;
-  box-sizing: border-box;
+  font-family: 'Courier New', Courier, monospace;
+  margin: 0;
+  display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;  margin: 0;
-  padding: 0;
-  color: black;
+  justify-content: center;
+  min-height: 150vh;
 }
 
 .container {
@@ -34,12 +31,12 @@ body {
 
 .card h2 {
   margin-bottom: 10px;
-  font-size: 1.5em;
+  font-size: 15em;
 }
 
 .card p {
   margin: 0;
-  font-size: 1.2em;
+  font-size: 12em;
 }
 
 .picture img {
